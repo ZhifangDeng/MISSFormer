@@ -1,5 +1,5 @@
 # MISSFormer
-Code for paper "MISSFormer: An Effective Medical Image Segmentation Transformer". Please read our preprint at the following link: [paper_address](https://arxiv.org/abs/2109.07162).
+Code for paper "MISSFormer: An Effective Medical Image Segmentation Transformer". Please read our preprint at the following link: [paper_address](https://arxiv.org/abs/2109.07162). Our paper has been accepted by TMI. More detailed comparative experiments and analysis can be found in the early access journal paper:[tmi_paper_address](https://ieeexplore.ieee.org/document/9994763/metrics#metrics).
 
 ## 1. Environment
 
